@@ -1,0 +1,5 @@
+,MAE,RMSE,MAPE_%
+Linear Regression,4.42,5.1,0.95
+Holt-Winters,5.66,6.13,1.22
+Random Forest,5.99,6.58,1.29
+Seasonal Naive,23.9,25.24,5.16
